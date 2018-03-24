@@ -1,10 +1,10 @@
-title: Streamdata Gallery Color
-url: color.streamdata.gallery
-tag: Color
+title: Streamdata Gallery Colors
+url: colors.streamdata.gallery
+tag: Colors
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery
-github_repo: color
+github_repo: colors
 github_branch: master
 collections:
   listings:
